@@ -19,6 +19,6 @@ jobs:
          with:
            source-directory: 'docs'
            destination-github-username: 'NikitaKurguzov'
-           destination-repository-name: 'labs.io'
+           destination-repository-name: 'uwu'
            user-email: 2020100197@pnu.edu.ru
            target-branch: main
